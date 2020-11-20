@@ -1,4 +1,18 @@
-The News Room Challenge:
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
+[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/grconnor)
+
+[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/grconnor/client_admin_el_gaucho_nyheter/graphs/contributors/)
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/grconnor/client_admin_el_gaucho_nyheter/pulls/)
+
+[![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/grconnor/client_admin_el_gaucho_nyheter/pulls/)
+
+
+
+# The News Room Challenge:
 
 - We were challenged with building a newpaper application with three clients, user, admin and mobile which were all being dealt with by a single API.
 
