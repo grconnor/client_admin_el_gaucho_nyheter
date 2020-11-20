@@ -51,7 +51,6 @@ $ yarn start
 
 ### Login credentials
 
-- email: user@mail.com password: password
 - email: journalist@mail.com password: password
 
 ## Updates/Improvements
