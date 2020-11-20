@@ -6,9 +6,9 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Naereen/StrapDown.js.svg)](https://GitHub.com/grconnor/client_admin_el_gaucho_nyheter/pulls/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/grconnor/client_user_el_gaucho_nyheter)](https://GitHub.com/grconnor/client_admin_el_gaucho_nyheter/pulls/)
 
-[![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Naereen/StrapDown.js.svg)](https://GitHub.com/grconnor/client_admin_el_gaucho_nyheter/pulls/)
+[![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed-raw/grconnor/client_admin_el_gaucho_nyheter)](https://GitHub.com/grconnor/client_admin_el_gaucho_nyheter/pulls/)
 
 
 
