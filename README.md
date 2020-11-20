@@ -2,7 +2,7 @@
 
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/grconnor)
 
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/grconnor/client_admin_el_gaucho_nyheter/graphs/contributors/)
+[![GitHub contributors](https://camo.githubusercontent.com/e6de49cf94380e7519552a7eccfc85ca27fcb8c6b2af992014c900fd5da7809a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e7472696275746f72732d416c6c2d79656c6c6f772e7376673f7374796c653d666c6174)](https://GitHub.com/grconnor/client_admin_el_gaucho_nyheter/graphs/contributors/)
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
