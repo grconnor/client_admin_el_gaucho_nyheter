@@ -1,16 +1,10 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/grconnor)
-
-[![GitHub contributors](https://camo.githubusercontent.com/e6de49cf94380e7519552a7eccfc85ca27fcb8c6b2af992014c900fd5da7809a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6e7472696275746f72732d416c6c2d79656c6c6f772e7376673f7374796c653d666c6174)](https://GitHub.com/grconnor/client_admin_el_gaucho_nyheter/graphs/contributors/)
-
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/grconnor)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/grconnor/client_user_el_gaucho_nyheter)](https://GitHub.com/grconnor/client_admin_el_gaucho_nyheter/pulls/)
-
-[![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed-raw/grconnor/client_admin_el_gaucho_nyheter)](https://GitHub.com/grconnor/client_admin_el_gaucho_nyheter/pulls/)
-
-
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/grconnor/client_admin_el_gaucho_nyheter?color=blueviolet&style=flat-square)](https://github.com/grconnor/client_admin_el_gaucho_nyheter)
+[![Github Contributors](https://img.shields.io/github/contributors/grconnor/client_admin_el_gaucho_nyheter?color=blueviolet&style=flat-square)](https://github.com/grconnor/client_admin_el_gaucho_nyheter/graphs/contributors)
+[![GitHub Open PR](https://img.shields.io/github/issues-pr/grconnor/client_admin_el_gaucho_nyheter?color=blueviolet&style=flat-square)](https://github.com/grconnor/client_admin_el_gaucho_nyheter/pulls)
+[![GitHub Closed PR](https://img.shields.io/github/issues-pr-closed/grconnor/client_admin_el_gaucho_nyheter?color=blueviolet&style=flat-square)](https://github.com/grconnor/client_admin_el_gaucho_nyheter/pulls)
 
 # The News Room Challenge:
 
